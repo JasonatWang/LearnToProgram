@@ -1,4 +1,5 @@
 import turtle
+import numbers
 def draw_tree(trees,a=45,l=100):
     if l>10:
         lstree=[]
@@ -27,4 +28,13 @@ def plant_tree(x,y,h):
     tree_rt = tree_lt.clone()
     trees = [tree_lt, tree_rt]
     draw_tree(trees, 45, 150)
-plant_tree(0,-300,200)
+# plant_tree(0,-300,200)
+turtle.title("Jason Wang -> 显示时间")
+turtle.speed(5)
+turtle.pensize(10)
+turtle.shape("classic")
+turtle.color("DeepSkyBlue")
+x1=-450
+dx=100
+num=turtle
+numbers.show_time(num,x1,0,dx)
