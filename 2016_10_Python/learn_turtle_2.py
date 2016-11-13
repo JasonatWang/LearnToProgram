@@ -14,8 +14,7 @@ def draw_tree(trees,a=45,l=100):
         trees=trees+lstree
         draw_tree(trees,30,l)
 def plant_tree(x,y,h):
-    turtle.title("Jason Wang -> 画树")
-    turtle.speed(20)
+    turtle.title("Jason Wang -> 画树").speed(30)
     turtle.pensize(10)
     turtle.shape("classic")
     turtle.color("DeepSkyBlue")
@@ -30,9 +29,9 @@ def plant_tree(x,y,h):
     draw_tree(trees, 45, 150)
 # plant_tree(0,-300,200)
 turtle.title("Jason Wang -> 显示时间")
-turtle.speed(5)
+turtle.speed(1)
 turtle.pensize(10)
-turtle.shape("classic")
+turtle.shape("turtle")
 turtle.color("DeepSkyBlue")
 x1=-450
 dx=100
