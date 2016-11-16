@@ -8,6 +8,8 @@
 <li>jQuery(与PHP的结合方面，重点Ajax)</li>
 <li>C(加强)</li>
 </ul>
+# 2016/11/17 Python学习
+最近打包了几个程序,马上要学习GUI编程了
 # 2016/11/13 Python学习
 这几天进行了python的turtle库学习和文件字典的学习,接下来将进行面向对象和random库的学习
 # 2016/10/7 PHP学习
