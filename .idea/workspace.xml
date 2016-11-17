@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd72f31-c370-40d7-b7d5-3f5c3dbf401f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/base_library.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/learn_turtle_2.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out00-Analysis.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out00-EXE.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out00-PKG.pkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out00-PKG.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out00-PYZ.pyz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out00-PYZ.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out00-Tree.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/out01-Tree.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_10_Python/Python输入日期画日期程序/build/learn_turtle_2/warnlearn_turtle_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/base_library.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/learn_file_countwords.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/out00-Analysis.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/out00-EXE.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/out00-PKG.pkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/out00-PKG.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/out00-PYZ.pyz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/out00-PYZ.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016_11_Python/build/learn_file_countwords/warnlearn_file_countwords.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/dist/learn_file_countwords.exe" afterPath="$PROJECT_DIR$/2016_11_Python/dist/learn_file_countwords.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py" afterPath="$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_10_Python/numbers.py" afterPath="$PROJECT_DIR$/2016_10_Python/numbers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/learn_file_countwords.py" afterPath="$PROJECT_DIR$/2016_11_Python/learn_file_countwords.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dat" afterPath="$PROJECT_DIR$/test.dat" />
     </list>
     <ignored path="LearnToProgram.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,8 +42,8 @@
     <SUITE FILE_PATH="coverage/LearnToProgram$Chapter3.coverage" NAME="Chapter3 Coverage Results" MODIFIED="1474304746063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_9_19_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_turtle.coverage" NAME="learn_turtle Coverage Results" MODIFIED="1478931610214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_10_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_turtle_2__1_.coverage" NAME="learn_turtle_2 (1) Coverage Results" MODIFIED="1479018719483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_Python" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_turtle_2.coverage" NAME="learn_turtle_2 Coverage Results" MODIFIED="1479047988230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_10_Python" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_file_countwords.coverage" NAME="learn_file_countwords Coverage Results" MODIFIED="1479313116758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_file_countwords.coverage" NAME="learn_file_countwords Coverage Results" MODIFIED="1479372050707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_turtle_2.coverage" NAME="learn_turtle_2 Coverage Results" MODIFIED="1479372765038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_10_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_1.coverage" NAME="learn_1 Coverage Results" MODIFIED="1477752316389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_10_29_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_file_1.coverage" NAME="learn_file_1 Coverage Results" MODIFIED="1479043251215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python" />
   </component>
@@ -37,9 +59,21 @@
       <file leaf-file-name="learn_file_countwords.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2016_11_Python/learn_file_countwords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+            <state relative-caret-position="31">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="learn_turtle_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,18 +81,8 @@
       <file leaf-file-name="numbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2016_10_Python/numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3540">
-              <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.dat" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.dat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="-810">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -83,11 +107,12 @@
         <option value="$PROJECT_DIR$/2016_10_29_Python/learn_1.py" />
         <option value="$PROJECT_DIR$/2016_10_Python/learn turtle.py" />
         <option value="$PROJECT_DIR$/2016_10_Python/learn_turtle.py" />
-        <option value="$PROJECT_DIR$/2016_10_Python/numbers.py" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/2016_11_Python/learn_file_1.py" />
-        <option value="$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py" />
         <option value="$PROJECT_DIR$/test.dat" />
+        <option value="$PROJECT_DIR$/2016_11_Python/learn_tellDate.py" />
+        <option value="$PROJECT_DIR$/2016_10_Python/numbers.py" />
+        <option value="$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py" />
         <option value="$PROJECT_DIR$/2016_11_Python/learn_file_countwords.py" />
       </list>
     </option>
@@ -129,8 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,6 +202,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,7 +213,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="Python.learn_file_countwords">
+  <component name="RunManager" selected="Python.learn_turtle_2">
     <configuration default="false" name="learn_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -515,8 +540,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.learn_file_countwords" />
-        <item index="1" class="java.lang.String" itemvalue="Python.learn_turtle_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.learn_turtle_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.learn_file_countwords" />
         <item index="2" class="java.lang.String" itemvalue="Python.learn_file_1" />
         <item index="3" class="java.lang.String" itemvalue="Python.learn_turtle_2 (1)" />
         <item index="4" class="java.lang.String" itemvalue="Python.learn_turtle" />
@@ -540,8 +565,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16510417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -581,14 +606,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2016_11_Python/learn_file_countwords.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -850,13 +867,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2016_10_29_Python/learn_1.py" />
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -899,25 +909,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3540">
-          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2016_11_Python/learn_file_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -929,10 +925,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/learn_tellDate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_10_Python/numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2016_11_Python/learn_file_countwords.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        <state relative-caret-position="31">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>

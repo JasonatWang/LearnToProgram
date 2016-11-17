@@ -13,12 +13,18 @@ def divide_word(line):
         else:
             countwords[word] = 1
     return countwords
+
+
 def replace_str(line):
     for chars in "~!@#$%^&*()_+-=<>?:{}'/\[]|.,;`":
         line = line.replace(chars, '')
     return line.strip()
+
+
 def main():
     file_name = input('Please Input The File Name: ')
+    if not file_name:
+        return 0
     file = open(file_name, 'r', encoding='utf-8')
     wordlist = {}
     for line in file:
@@ -31,6 +37,8 @@ def main():
         wordlist.update(words)
     print(wordlist)
     file.close()
-    input()
+    return 1
 if __name__ == '__main__':
-    main()
+    while True:
+        if not main():
+            break
