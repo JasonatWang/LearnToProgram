@@ -1,0 +1,3 @@
+EXPORTS
+    add_float @1
+    add_int @2
