@@ -8,6 +8,8 @@
 <li>jQuery(与PHP的结合方面，重点Ajax)</li>
 <li>C(加强)</li>
 </ul>
+# 2016/11/20 Python学习
+学完了 Intermediate Python 的大部分内容, 以后实践的项目会增多～
 # 2016/11/17 Python学习
 最近打包了几个程序,马上要学习GUI编程了
 # 2016/11/13 Python学习
