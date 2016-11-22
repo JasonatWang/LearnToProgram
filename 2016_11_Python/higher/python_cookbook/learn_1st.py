@@ -233,6 +233,7 @@ res_f_func = adder.add_float
 res_f_func.restype = c_float
 print('the result of a + b is:', res_f_func(a_c, b_c))
 
+
 # IO with 上下文管理器 保证句柄正确释放
 with open('./CPython/test.txt', 'rb') as test_file:
     print(test_file.read())
