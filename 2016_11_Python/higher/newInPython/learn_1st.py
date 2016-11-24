@@ -224,7 +224,7 @@ for n in range(2, 10):
 
 # CPython
 from ctypes import *
-adder = CDLL('./CPython/adder.dll')
+adder = CDLL('../Cython/adder.dll')
 result_int = adder.add_int(3, 4)
 print('the result of 3 + 4 is:',result_int)
 a_c = c_float(5.5)
@@ -235,5 +235,13 @@ print('the result of a + b is:', res_f_func(a_c, b_c))
 
 
 # IO with 上下文管理器 保证句柄正确释放
-with open('./CPython/test.txt', 'rb') as test_file:
+with open('../Cython/test.txt', 'rb') as test_file:
     print(test_file.read())
+
+# 用 zip() 迭代多个列表, 列表长度不同时以最小的为准
+days = ['Mon', 'Tue', 'Web']
+fruits = ['banana', 'orange', 'peach']
+drinks = ['coffee', 'tea', 'beer']
+desserts = ['tiramisu', 'ice cream', 'pie', 'pudding']
+for day, fruit, drink, dessert in zip(days, fruits, drinks, desserts):
+    print(day, ': drink', drink, '-eat', fruit, '-enjoy', dessert)

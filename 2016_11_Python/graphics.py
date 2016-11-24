@@ -217,8 +217,7 @@ class GraphWin(tk.Canvas):
     def _onKey(self, evnt):
         self.lastKey = evnt.keysym
 
-
-    def setBackground(self, color):
+    def set_background(self, color):
         """Set background color of the window"""
         self.__checkOpen()
         self.config(bg=color)
@@ -380,7 +379,7 @@ class Transform:
         self.xscale = xspan/float(w-1)
         self.yscale = yspan/float(h-1)
         
-    def screen(self,x,y):
+    def screen(self, x, y):
         # Returns x,y in screen (actually window) coordinates
         xs = (x-self.xbase) / self.xscale
         ys = (self.ybase-y) / self.yscale
