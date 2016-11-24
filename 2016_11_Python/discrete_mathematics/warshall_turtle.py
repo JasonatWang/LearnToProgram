@@ -1,6 +1,5 @@
 from numpy import *
 import turtle
-import sys
 
 
 # WarShall算法
@@ -43,10 +42,14 @@ def draw_lines(letter_dict, relation):
         to_position = letter_dict[values[:1]].pos()
         moved(from_position[0], from_position[1])
         if from_position == to_position:
+            turtle.color("LightSkyBlue")
             turtle.circle(50)
+            turtle.color("DeepSkyBlue")
         elif from_position[0] < to_position[0]:
             turtle.seth(270)
+            turtle.color("CornflowerBlue")
             turtle.circle((to_position[0] - from_position[0]) / 2, 180)
+            turtle.color("DeepSkyBlue")
         else:
             turtle.seth(90)
             turtle.circle((from_position[0] - to_position[0]) / 2, 180)
@@ -69,7 +72,7 @@ def draw_schema(letters_to_write, relation, n):
         letters_to_write.dot(15, "Indigo")
         letters_to_write.color("Indigo")
         letters_to_write.write(letter, move=False, align="left", font=("Microsoft YaHei", 20, "normal"))
-        letters_to_write.color("OrangeRed")
+        letters_to_write.color("DeepSkyBlue")
         moved(0, 0)
     draw_lines(dot_dict, relation)
 
@@ -80,7 +83,7 @@ def draw_relation_schema(relation, n):
     turtle.speed(3)
     turtle.pensize(5)
     turtle.shape("classic")
-    turtle.color("OrangeRed")
+    turtle.color("DeepSkyBlue")
     letters_to_write = turtle
     draw_schema(letters_to_write, relation, n)
     turtle.done()
