@@ -1,5 +1,6 @@
 from numpy import *
 import turtle
+import sys
 
 
 # WarShall算法
@@ -27,6 +28,7 @@ def transfer_mat_to_letter(mat_x, n):
     return relation_dict
 
 
+# 将turtle移动到特定位置, 并把箭头指向恢复
 def moved(x=0, y=0):
     turtle.penup()
     turtle.goto(x, y)
@@ -34,6 +36,7 @@ def moved(x=0, y=0):
     turtle.seth(0)
 
 
+# 画线
 def draw_lines(letter_dict, relation):
     for keys, values in relation.items():
         from_position = letter_dict[keys[:1]].pos()
@@ -50,10 +53,11 @@ def draw_lines(letter_dict, relation):
         moved(0, 0)
 
 
+# 画图
 def draw_schema(letters_to_write, relation, n):
     num_to_letter = dict(zip([num for num in range(n)], 'abcdefghijklmnopqrstuvwxyz'[:n]))
     letters_set = set()
-    x = -400
+    x = -500
     dx = 200
     dot_dict = dict()
     for num in range(n):
@@ -62,18 +66,21 @@ def draw_schema(letters_to_write, relation, n):
         x += dx
         moved(x)
         dot_dict.update({letter: letters_to_write.clone()})
-        letters_to_write.dot(15, "LawnGreen")
-        letters_to_write.write(letter, move=False, align="center", font=("Microsoft YaHei", 20, "normal"))
+        letters_to_write.dot(15, "Indigo")
+        letters_to_write.color("Indigo")
+        letters_to_write.write(letter, move=False, align="left", font=("Microsoft YaHei", 20, "normal"))
+        letters_to_write.color("OrangeRed")
         moved(0, 0)
     draw_lines(dot_dict, relation)
 
 
+# 画关系图主程序
 def draw_relation_schema(relation, n):
-    turtle.title("王霄: 关系图")
+    turtle.title("离散闭包关系图 code by 王霄")
     turtle.speed(3)
     turtle.pensize(5)
     turtle.shape("classic")
-    turtle.color("DeepSkyBlue")
+    turtle.color("OrangeRed")
     letters_to_write = turtle
     draw_schema(letters_to_write, relation, n)
     turtle.done()
@@ -111,6 +118,7 @@ def output_relationship(relation_dict, name_str):
     print('\b\b}')
 
 
+# 主程序 code by 王霄 ~
 def main():
     mat_a, n = input_matrix()
     i_mat_a = mat_a.copy()
@@ -128,6 +136,9 @@ def main():
 
     # 画关系图
     draw_relation_schema(t_relation, n)
+
+    input("按任意键退出")
+
 
 if __name__ == '__main__':
     main()
