@@ -206,11 +206,13 @@ print(mcase_frequency)
 print(mcase_reverse)
 squared = {x**2 for x in [1, 1, 2]}
 print(squared)
+
 # 列表碾平
 import itertools
 a_list = [[1, 2], [3, 4], [4, 5], [5, 6]]
 print(list(itertools.chain.from_iterable(a_list)))
 print('or', list(itertools.chain(*a_list)))
+
 # for-else
 for n in range(2, 10):
     for x in range(2, n):
