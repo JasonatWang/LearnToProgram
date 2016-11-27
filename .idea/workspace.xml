@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd72f31-c370-40d7-b7d5-3f5c3dbf401f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/base_library.zip" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/base_library.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.pkg" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.pkg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.pyz" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.pyz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/dist/warshall_turtle.exe" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/dist/warshall_turtle.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/warshall_turtle.py" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/warshall_turtle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_1st.py" afterPath="$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_1st.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-Analysis.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-Analysis.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-EXE.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-EXE.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warnwarshall_turtle.txt" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warnwarshall_turtle.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warshall_turtle.exe.manifest" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warshall_turtle.exe.manifest" />
     </list>
     <ignored path="LearnToProgram.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,50 +53,7 @@
     <favorites_list name="LearnToProgram" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="warshall_turtle.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2016_11_Python/discrete_mathematics/warshall_turtle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2460">
-              <caret line="82" column="18" lean-forward="false" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learn_1st.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_1st.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6960">
-              <caret line="232" column="18" lean-forward="false" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016_10_Python/numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learn_turtle_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -730,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480001312643</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="做了一些小改动和速度上的优化">
+      <created>1480248551200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1480248551200</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -804,7 +776,8 @@
     <MESSAGE value="完善了WarShall算法的程序，添加了显示关系，画关系图的功能" />
     <MESSAGE value="完善了WarShall算法的程序，添加了显示关系，画关系图的功能，最终打包成了.exe文件" />
     <MESSAGE value="做了一些小的修改，改变了颜色来显示方向" />
-    <option name="LAST_COMMIT_MESSAGE" value="做了一些小的修改，改变了颜色来显示方向" />
+    <MESSAGE value="做了一些小改动和速度上的优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="做了一些小改动和速度上的优化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1061,14 +1034,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/Cython/learnCython_1st/pythonCython.pyx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1090,9 +1055,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/discrete_mathematics/warshall_turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="82" column="18" lean-forward="false" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_1st.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6960">
+        <state relative-caret-position="176">
           <caret line="232" column="18" lean-forward="false" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
           <folding />
         </state>
@@ -1106,13 +1081,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016_11_Python/discrete_mathematics/warshall_turtle.py">
+    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
-          <caret line="82" column="18" lean-forward="false" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="746">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
