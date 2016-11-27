@@ -1,4 +1,4 @@
-from numpy import *
+from numpy import array
 import turtle
 
 
@@ -80,7 +80,7 @@ def draw_schema(letters_to_write, relation, n):
 # 画关系图主程序
 def draw_relation_schema(relation, n):
     turtle.title("离散闭包关系图 code by 王霄")
-    turtle.speed(3)
+    turtle.speed(7)
     turtle.pensize(5)
     turtle.shape("classic")
     turtle.color("DeepSkyBlue")
@@ -126,7 +126,7 @@ def main():
     mat_a, n = input_matrix()
     i_mat_a = mat_a.copy()
     # 输出输入矩阵
-    output_matrix(i_mat_a, '输入的关系矩阵')
+    # output_matrix(i_mat_a, '输入的关系矩阵')
     # WarShall算法
     t_mat_a = war_shall(mat_a, n)
     # 输出传递闭包

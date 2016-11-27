@@ -228,7 +228,7 @@ for n in range(2, 10):
 from ctypes import *
 adder = CDLL('../Cython/adder.dll')
 result_int = adder.add_int(3, 4)
-print('the result of 3 + 4 is:',result_int)
+print('the result of 3 + 4 is:', result_int)
 a_c = c_float(5.5)
 b_c = c_float(4.1)
 res_f_func = adder.add_float
