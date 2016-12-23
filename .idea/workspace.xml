@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efd72f31-c370-40d7-b7d5-3f5c3dbf401f" name="Default" comment="开始学习多进程和多线程" />
-    <list id="3f2c51b2-cc74-4b01-8c40-caae5659bc81" name="开始学习多进程和多线程" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_3rd.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/base_library.zip" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/base_library.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.pkg" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.pkg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PKG.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.pyz" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.pyz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/dist/warshall_turtle.exe" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/dist/warshall_turtle.exe" />
+    <list default="true" id="efd72f31-c370-40d7-b7d5-3f5c3dbf401f" name="Default" comment="开始学习多进程和多线程">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_subprocess_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/aSimpleShell.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/cd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/exit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/getenv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/history.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016_11_Python/higher/webCrawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LearnToProgram.iml" afterPath="$PROJECT_DIR$/.idea/LearnToProgram.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-Analysis.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-Analysis.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-EXE.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-EXE.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.toc" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/out00-PYZ.toc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warnwarshall_turtle.txt" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warnwarshall_turtle.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warshall_turtle.exe.manifest" afterPath="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/build/warshall_turtle/warshall_turtle.exe.manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016_10_Python/learn_1.py" afterPath="$PROJECT_DIR$/2016_10_Python/learn_1.py" />
     </list>
     <ignored path="LearnToProgram.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_thread_1.coverage" NAME="learn_thread_1 Coverage Results" MODIFIED="1480747314602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_pyqt_1.coverage" NAME="learn_pyqt_1 Coverage Results" MODIFIED="1479540447502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/GUI" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_2nd.coverage" NAME="learn_2nd Coverage Results" MODIFIED="1479972101651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/newInPython" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$firstPyQt.coverage" NAME="firstPyQt Coverage Results" MODIFIED="1479540625050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/GUI" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$warshall_turtle__1_.coverage" NAME="warshall_turtle (1) Coverage Results" MODIFIED="1480689315485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/discrete_mathematics" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_thread_2.coverage" NAME="learn_thread_2 Coverage Results" MODIFIED="1482473374675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_cpython_pyx.coverage" NAME="learn_cpython.pyx Coverage Results" MODIFIED="1479733561012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_1st.coverage" NAME="learn_1st Coverage Results" MODIFIED="1479914642148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_file_countwords.coverage" NAME="learn_file_countwords Coverage Results" MODIFIED="1479372050707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$Chapter3.coverage" NAME="Chapter3 Coverage Results" MODIFIED="1474304746063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_9_19_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_gui_1.coverage" NAME="learn_gui_1 Coverage Results" MODIFIED="1479540628321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/GUI" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_turtle_2.coverage" NAME="learn_turtle_2 Coverage Results" MODIFIED="1479527439818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_10_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_file_1.coverage" NAME="learn_file_1 Coverage Results" MODIFIED="1479043251215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python" />
@@ -37,19 +46,13 @@
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_3rd.coverage" NAME="learn_3rd Coverage Results" MODIFIED="1480689322720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/newInPython" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learnCython.coverage" NAME="learnCython Coverage Results" MODIFIED="1479921822286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/CPython" />
     <SUITE FILE_PATH="coverage/LearnToProgram$warshall_turtle.coverage" NAME="warshall_turtle Coverage Results" MODIFIED="1479977931355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/discrete_mathematics" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_pyqt_1.coverage" NAME="learn_pyqt_1 Coverage Results" MODIFIED="1479540447502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/GUI" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_multiprocessing_2.coverage" NAME="learn_multiprocessing_2 Coverage Results" MODIFIED="1480690854054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_1__1_.coverage" NAME="learn_1 (1) Coverage Results" MODIFIED="1479559939563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_2nd.coverage" NAME="learn_2nd Coverage Results" MODIFIED="1479972101651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/newInPython" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$firstPyQt.coverage" NAME="firstPyQt Coverage Results" MODIFIED="1479540625050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/GUI" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$warshall_turtle__1_.coverage" NAME="warshall_turtle (1) Coverage Results" MODIFIED="1480689315485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/discrete_mathematics" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$webCrawler.coverage" NAME="webCrawler Coverage Results" MODIFIED="1482473412493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_multiprocessing_2.coverage" NAME="learn_multiprocessing_2 Coverage Results" MODIFIED="1480735897561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_1__1_.coverage" NAME="learn_1 (1) Coverage Results" MODIFIED="1482473405427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_10_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_turtle.coverage" NAME="learn_turtle Coverage Results" MODIFIED="1478931610214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_10_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_1st__1_.coverage" NAME="learn_1st (1) Coverage Results" MODIFIED="1479974876231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/newInPython" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_cpython_pyx.coverage" NAME="learn_cpython.pyx Coverage Results" MODIFIED="1479733561012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_1st.coverage" NAME="learn_1st Coverage Results" MODIFIED="1479914642148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$learn_file_countwords.coverage" NAME="learn_file_countwords Coverage Results" MODIFIED="1479372050707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python" />
+    <SUITE FILE_PATH="coverage/LearnToProgram$learn_subprocess_1.coverage" NAME="learn_subprocess_1 Coverage Results" MODIFIED="1480738695019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learnCython__1_.coverage" NAME="learnCython (1) Coverage Results" MODIFIED="1479922649152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_11_Python/higher/Cython/learnCython_1st" />
-    <SUITE FILE_PATH="coverage/LearnToProgram$Chapter3.coverage" NAME="Chapter3 Coverage Results" MODIFIED="1474304746063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_9_19_Python" />
     <SUITE FILE_PATH="coverage/LearnToProgram$learn_turtle_2__1_.coverage" NAME="learn_turtle_2 (1) Coverage Results" MODIFIED="1479018719483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2016_Python" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -61,26 +64,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="learn_multiprocessing_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_1.py">
+      <file leaf-file-name="learn_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="211">
+              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learn_multiprocessing_2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_2.py">
+      <file leaf-file-name="webCrawler.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/webCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="661">
-              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,6 +136,18 @@
         <option value="$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_3rd.py" />
         <option value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_1.py" />
         <option value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_2.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_subprocess_1.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/webCrawler.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_1.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_2.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/history.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/constants.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/cd.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/exit.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/getenv.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/__init__.py" />
+        <option value="$PROJECT_DIR$/2016_11_Python/higher/simpleShell/aSimpleShell.py" />
+        <option value="$PROJECT_DIR$/2016_10_Python/learn_1.py" />
       </list>
     </option>
   </component>
@@ -170,8 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,12 +241,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MachineLearning" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -251,80 +262,8 @@
       <recent name="D:\#学习+工作文档\GitHub\LearnToProgram\2016_11_Python\GUI\PyQt" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.learn_multiprocessing_2">
-    <configuration default="false" name="learn_1st (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_11_Python/higher/newInPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnToProgram" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_1st.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="warshall_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_11_Python/discrete_mathematics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnToProgram" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\#学习+工作文档\GitHub\LearnToProgram\2016_11_Python\discrete_mathematics\warshall_relationship.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="warshall_turtle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_11_Python/discrete_mathematics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnToProgram" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/discrete_mathematics/warshall_turtle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="learn_3rd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_11_Python/higher/newInPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnToProgram" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_3rd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="learn_multiprocessing_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.webCrawler">
+    <configuration default="false" name="learn_subprocess_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -337,7 +276,79 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnToProgram" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_subprocess_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="webCrawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_11_Python/higher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnToProgram" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/higher/webCrawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="learn_thread_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnToProgram" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="learn_thread_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnToProgram" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="learn_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2016_10_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnToProgram" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016_10_Python/learn_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -576,19 +587,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.learn_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.learn_1st (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.warshall_turtle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.warshall_turtle (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.learn_3rd" />
-      <item index="5" class="java.lang.String" itemvalue="Python.learn_multiprocessing_2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.learn_subprocess_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.webCrawler" />
+      <item index="3" class="java.lang.String" itemvalue="Python.learn_thread_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.learn_thread_2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.learn_1 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.learn_multiprocessing_2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.learn_3rd" />
-        <item index="2" class="java.lang.String" itemvalue="Python.warshall_turtle (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.warshall_turtle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.learn_1st (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.webCrawler" />
+        <item index="1" class="java.lang.String" itemvalue="Python.learn_1 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.learn_thread_2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.learn_thread_1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.learn_subprocess_1" />
       </list>
     </recent_temporary>
   </component>
@@ -601,7 +612,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="efd72f31-c370-40d7-b7d5-3f5c3dbf401f" name="Default" comment="" />
-      <changelist id="3f2c51b2-cc74-4b01-8c40-caae5659bc81" name="开始学习多进程和多线程" comment="" />
       <created>1474296852294</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -663,7 +673,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480691332970</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="开始学习多进程和多线程">
+      <created>1480691471949</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480691471949</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -677,15 +694,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38717338" sideWeight="0.5021575" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38654503" sideWeight="0.5021575" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35575828" sideWeight="0.4978425" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35494882" sideWeight="0.4978425" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25541618" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25427595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973032" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -748,77 +765,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_9_19_Python/Chapter3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_turtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_9_19_Python/Chapter3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_29_Python/learn_1.py" />
-    <entry file="file://$PROJECT_DIR$/2016_9_19_Python/Chapter3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_9_19_Python/Chapter3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_9_19_Python/Chapter3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2016_9_19_Python/Chapter3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -845,13 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -940,13 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="711" column="0" lean-forward="false" selection-start-line="711" selection-start-column="0" selection-end-line="711" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/parse.py" />
     <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_2nd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1003,13 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_1st.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="232" column="18" lean-forward="false" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2016_10_Python/numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1028,19 +954,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_1.py">
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/newInPython/learn_1st.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="232" column="18" lean-forward="false" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1048,9 +968,99 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="661">
           <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_multiprocessing_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_thread_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/ProcessAndThread/learn_subprocess_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/history.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/getenv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/exit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/cd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/simpleShell/func/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/simpleShell/aSimpleShell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_10_Python/learn_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016_11_Python/higher/webCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>

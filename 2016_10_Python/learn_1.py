@@ -1,4 +1,6 @@
 import turtle
+
+
 def draw_snake(rad, angle, len, neckrad):
     for i in range(len):
         turtle.circle(rad, angle)
@@ -7,11 +9,15 @@ def draw_snake(rad, angle, len, neckrad):
     turtle.fd(rad)
     turtle.circle(neckrad + 1, 180)
     turtle.fd(rad * 2 / 3)
+
+
 def draw_tangle(length,seths):
     for i in range(3):
         turtle.fd(length)
         turtle.seth(seths)
         seths +=seths
+
+
 def main():
     turtle.setup(1300, 800, 0, 0)
     pythonsize = 20
